@@ -1,145 +1,154 @@
-<h1 align="center">Hi 👋, I'm Rashi Sharma</h1>
+<h1 align="center">Rashi Sharma</h1>
 
-<h3 align="center">
-  💻 AI & Web Development Learner | Aspiring Full Stack Developer
-</h3>
+<h3 align="center">AI and Web Development Learner | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  🌱 Learning • 💡 Creating • 🚀 Growing
+  Digital Marketing with AI | Programming | Web Development
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
-- 🎓 Currently pursuing BCA from Maharshi Dayanand University (MDU), Rohtak.
-- 🤖 Studying Digital Marketing with AI at Zed King Group of Institute.
-- 💻 Completed training in NIELIT O Level.
-- 🌱 Exploring Artificial Intelligence, Web Development and IoT.
-- 🎨 Interested in Content Creation, Video Editing and Graphic Designing.
-- 🚀 Love building websites and creative digital projects.
-- 🎯 My goal is to become a skilled AI & Full Stack Developer.
+I am Rashi Sharma, a BCA student and aspiring developer with an interest in Artificial Intelligence, Web Development, and emerging technologies.
+
+I enjoy turning ideas into practical digital solutions by building websites, exploring AI tools, and working on creative technology projects. I believe in learning through practice, improving my technical skills, and developing solutions that solve real-world problems.
+
+Currently, I am pursuing BCA at Maharshi Dayanand University and Digital Marketing with AI at Zed King Group of Institute. I have also completed training in the NIELIT O Level course, covering web development, programming, and Internet of Things.
+
+My long-term goal is to become a skilled AI and Full Stack Developer, contribute to meaningful projects, and continue growing as a technology professional.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming & Web Development
+### Programming and Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
-</p>
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- C++
 
-### 🤖 AI Tools
+### Artificial Intelligence Tools
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva%20AI-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gamma%20AI-7B61FF?style=for-the-badge" />
-</p>
+- ChatGPT
+- Google Gemini
+- Claude AI
+- Canva AI
+- Gamma AI
 
-### 🎨 Creative Skills
+### Creative and Digital Skills
 
+- Content Creation
 - Video Editing
 - Graphic Designing
-- Content Creation
-- SEO & Digital Marketing
+- Digital Marketing
+- Search Engine Optimization
 
 ---
 
-## 🚀 My Projects
+## Projects
 
-### 🌐 Personal Portfolio Website
-My personal portfolio showcasing my skills and work.
+### Personal Portfolio Website
 
-🔗 [Visit My Portfolio](https://rashi-portfolio-frontend.vercel.app/)
+Designed and developed a personal portfolio website to showcase my skills, projects, and professional journey.
 
-### 🏫 Anjali Kids Play School Website
-A website project created for a play school with website content and SEO.
+- Live Website: https://rashi-portfolio-frontend.vercel.app/
 
-🔗 [Visit Website](https://zip-repl-anjali-kids-school.vercel.app/)
+### Anjali Kids Play School Website
 
-### 🎮 Game Project
-An interactive game built as part of my coursework and self-learning.
+Developed a website for a play school, focusing on website layout, content presentation, and SEO.
 
-🔗 [View Game Repository](https://github.com/sharmrashi-arch/Game-project)
+- Live Website: https://zip-repl-anjali-kids-school.vercel.app/
 
----
+### Game Project
 
-## 🎓 Education
+Created an interactive game as part of my coursework and self-learning journey.
 
-- **Bachelor of Computer Applications (BCA)**
-  - Maharshi Dayanand University (MDU), Rohtak
-  - Currently Pursuing
-
-- **Digital Marketing with AI**
-  - Zed King Group of Institute
-  - Currently Pursuing
-
-- **NIELIT O Level**
-  - Government Certificate Course
-  - Web Development, Programming, IoT & Computer Applications
+- GitHub Repository: https://github.com/sharmrashi-arch/Game-project
 
 ---
 
-## 🏆 Certifications & Achievements
+## Education
 
-- 🥇 1st Position — Quiz Competition 2025, Zed-King Institute
-- 📜 Employability Skill Training Programme — Naandi Foundation
-- 🏅 Haryana Talent Search Examination 2023
-- 🌟 NSS Merit Certificate — National Service Scheme Volunteer
-- 🎖️ Certificate of Appreciation — Zed-King Group of Institutions
+**Bachelor of Computer Applications (BCA)**
 
----
+Maharshi Dayanand University, Rohtak
 
-## 💪 Core Strengths
+Currently Pursuing
 
-- ⚡ Quick Learner
-- 🎯 Creative & Detail-Oriented
-- 🤝 Good Communication
-- 📚 Continuous Learning
-- 💡 Problem Solving
-- 🚀 Hands-on Project Development
+**Digital Marketing with AI**
 
----
+Zed King Group of Institute
 
-## 📊 GitHub Statistics
+Currently Pursuing
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharmrashi-arch&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmrashi-arch&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+**NIELIT O Level**
+
+Government Certificate Course covering Web Development, Programming, Internet of Things, and Computer Applications.
 
 ---
 
-## 🌱 My Current Focus
+## Certifications and Achievements
+
+- First Position in Quiz Competition 2025, Zed-King Institute
+- Employability Skill Training Programme, Naandi Foundation
+- Haryana Talent Search Examination 2023
+- NSS Merit Certificate, National Service Scheme Volunteer
+- Certificate of Appreciation, Zed-King Group of Institutions
+
+---
+
+## Core Strengths
+
+- Quick Learning and Adaptability
+- Creative Thinking
+- Attention to Detail
+- Communication Skills
+- Self-Discipline
+- Continuous Learning
+- Practical Project Development
+
+---
+
+## Currently Learning
 
 - Artificial Intelligence
 - Python Programming
-- Full Stack Web Development
+- Web Development
 - Prompt Engineering
-- Real-World Projects
+- Full Stack Development
+- Real-World Project Development
 
 ---
 
-## 📫 Connect With Me
-
-📧 **Email:** sharmaaaarashi@gmail.com
-
-💻 **GitHub:** [@sharmrashi-arch](https://github.com/sharmrashi-arch)
-
-🌐 **Portfolio:** [Visit My Website](https://rashi-portfolio-frontend.vercel.app/)
-
-📍 **Location:** Pundri, Kaithal, Haryana, India
-
----
-
-<h3 align="center">
-  💜 "Dream Big, Learn Every Day, Build Something Amazing!" 💜
-</h3>
+## GitHub Statistics
 
 <p align="center">
-  ⭐ Thank you for visiting my profile! ⭐
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmrashi-arch&show_icons=true&theme=default&hide_border=true" alt="Rashi's GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmrashi-arch&layout=compact&theme=default&hide_border=true" alt="Most Used Programming Languages" />
+</p>
+
+---
+
+## Contact Information
+
+- Email: sharmaaaarashi@gmail.com
+- GitHub: https://github.com/sharmrashi-arch
+- Portfolio: https://rashi-portfolio-frontend.vercel.app/
+- Location: Pundri, Kaithal, Haryana, India
+
+---
+
+## My Goal
+
+To become a skilled AI and Full Stack Developer by continuously learning, building practical projects, exploring new technologies, and contributing to meaningful digital solutions.
+
+<p align="center">
+  Thank you for visiting my GitHub profile.
 </p>
