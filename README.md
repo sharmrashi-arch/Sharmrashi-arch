@@ -1,10 +1,8 @@
-<h1 align="center">Rashi Sharma</h1>
+# Rashi Sharma
 
-<h3 align="center">AI and Web Development Learner | Aspiring Full Stack Developer</h3>
+### AI and Web Development Learner | Aspiring Full Stack Developer
 
-<p align="center">
-  Digital Marketing with AI | Programming | Web Development
-</p>
+Digital Marketing with AI | Programming | Web Development
 
 ---
 
@@ -16,7 +14,8 @@ I am a BCA student and aspiring AI & Full Stack Developer passionate about build
 
 ## Technical Skills
 
-**Programming and Web Development**
+### Programming and Web Development
+
 - HTML
 - CSS
 - JavaScript
@@ -24,14 +23,16 @@ I am a BCA student and aspiring AI & Full Stack Developer passionate about build
 - C
 - C++
 
-**AI Tools**
+### Artificial Intelligence Tools
+
 - ChatGPT
 - Google Gemini
 - Claude AI
 - Canva AI
 - Gamma AI
 
-**Creative and Digital Skills**
+### Creative and Digital Skills
+
 - Content Creation
 - Video Editing
 - Graphic Designing
@@ -42,39 +43,41 @@ I am a BCA student and aspiring AI & Full Stack Developer passionate about build
 
 ## Projects
 
-### 1. Personal Portfolio Website
+### Personal Portfolio Website
 
 Designed and developed a personal portfolio website to showcase my skills and projects.
 
-- Live Website: https://rashi-portfolio-frontend.vercel.app/
+Website: https://rashi-portfolio-frontend.vercel.app/
 
-### 2. Anjali Kids Play School Website
+### Anjali Kids Play School Website
 
-Developed a website for a play school, focusing on layout, content, and SEO.
+Developed a website for a play school, focusing on layout, content presentation, and SEO.
 
-- Live Website: https://zip-repl-anjali-kids-school.vercel.app/
+Website: https://zip-repl-anjali-kids-school.vercel.app/
 
-### 3. Game Project
+### Game Project
 
 Created an interactive game as part of my coursework and self-learning journey.
 
-- GitHub Repository: https://github.com/sharmrashi-arch/Game-project
+Repository: https://github.com/sharmrashi-arch/Game-project
 
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA)**
+### Bachelor of Computer Applications (BCA)
 
-Maharshi Dayanand University, Rohtak  
+Maharshi Dayanand University, Rohtak
+
 Currently Pursuing
 
-**Digital Marketing with AI**
+### Digital Marketing with AI
 
-Zed King Group of Institute  
+Zed King Group of Institute
+
 Currently Pursuing
 
-**NIELIT O Level**
+### NIELIT O Level
 
 Government Certificate Course covering Web Development, Programming, Internet of Things, and Computer Applications.
 
@@ -115,17 +118,20 @@ Government Certificate Course covering Web Development, Programming, Internet of
 
 ## Contact Information
 
-- Email: sharmaaaarashi@gmail.com
-- GitHub: https://github.com/sharmrashi-arch
-- Portfolio: https://rashi-portfolio-frontend.vercel.app/
-- Location: Pundri, Kaithal, Haryana, India
+Email: sharmaaaarashi@gmail.com
+
+GitHub: https://github.com/sharmrashi-arch
+
+Portfolio: https://rashi-portfolio-frontend.vercel.app/
+
+Location: Pundri, Kaithal, Haryana, India
 
 ---
 
 ## My Goal
 
-To become a skilled AI and Full Stack Developer by continuously learning, building practical projects, and creating innovative digital solutions.
+To become a skilled AI and Full Stack Developer by continuously learning, building practical projects, exploring new technologies, and creating innovative digital solutions.
 
-<p align="center">
-  Thank you for visiting my GitHub profile.
-</p>
+---
+
+Thank you for visiting my GitHub profile.
