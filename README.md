@@ -1,22 +1,30 @@
- <h1 align="center">Rashi Sharma</h1>
-
-<h3 align="center">AI and Web Development Learner | Aspiring Full Stack Developer</h3>
+<p align="center">
+  <b>Hi, I'm Rashi Sharma</b>
+</p>
 
 <p align="center">
-  <samp>Building Skills, Exploring Technology, Creating Projects</samp>
+  <b>Web Developer | AI Chatbot Developer | SEO & Digital Marketing Learner | Content Creator</b>
+</p>
+
+<p align="center">
+  <samp>I build responsive, SEO-friendly websites, AI-powered chatbots, and engaging digital content that help local businesses grow online.</samp>
+</p>
+
+<p align="center">
+  <samp>HTML • CSS • JavaScript • Python • Prompt Engineering • Video Editing</samp>
 </p>
 
 ---
 
-## About Me
+<p><b>PROFESSIONAL SUMMARY</b></p>
 
-I am a BCA student interested in Artificial Intelligence, Web Development, and Digital Marketing. I enjoy building websites, exploring AI tools, and developing creative digital projects. My goal is to become a skilled AI and Full Stack Developer by continuously learning and building practical solutions.
+BCA student with hands-on experience in web development, AI tools, and digital marketing. I design and build responsive, SEO-friendly websites and AI chatbots, and create digital content that helps businesses grow online. My goal is to become a skilled AI and Full Stack Developer by building practical, real-world solutions.
 
 ---
 
-## Technical Skills
+<p><b>TECHNICAL SKILLS</b></p>
 
-### Programming Languages
+<p><b>Programming Languages</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -27,7 +35,7 @@ I am a BCA student interested in Artificial Intelligence, Web Development, and D
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 
-### AI Tools
+<p><b>AI Tools</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
@@ -37,7 +45,7 @@ I am a BCA student interested in Artificial Intelligence, Web Development, and D
   <img src="https://img.shields.io/badge/Gamma_AI-6C5CE7?style=for-the-badge" alt="Gamma AI">
 </p>
 
-### Creative Skills
+<p><b>Creative Skills</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Video_Editing-8A2BE2?style=for-the-badge" alt="Video Editing">
@@ -49,21 +57,21 @@ I am a BCA student interested in Artificial Intelligence, Web Development, and D
 
 ---
 
-## Projects
+<p><b>FEATURED PROJECTS</b></p>
 
-### Personal Portfolio Website
+<p><b>Personal Portfolio Website</b></p>
 
-A personal website showcasing my skills, work, and development journey.
+A one-page portfolio showcasing my skills, projects, and development journey.
 
 [View Portfolio](https://rashi-portfolio-frontend.vercel.app/)
 
-### Anjali Kids Play School Website
+<p><b>Anjali Kids Play School Website</b></p>
 
-A website project developed for a play school, focusing on layout, content, and SEO.
+A website developed for a play school, focused on clean layout, quality content, and SEO.
 
 [Visit Website](https://zip-repl-anjali-kids-school.vercel.app/)
 
-### Game Project
+<p><b>Game Project</b></p>
 
 An interactive game developed as part of my coursework and self-learning.
 
@@ -71,7 +79,7 @@ An interactive game developed as part of my coursework and self-learning.
 
 ---
 
-## Education
+<p><b>EDUCATION</b></p>
 
 **Bachelor of Computer Applications (BCA)**
 
@@ -87,11 +95,11 @@ Currently Pursuing
 
 **NIELIT O Level**
 
-Government Certificate Course covering Web Development, Programming, IoT, and Computer Applications.
+Government certificate course covering Web Development, Programming, IoT, and Computer Applications.
 
 ---
 
-## Certifications and Achievements
+<p><b>CERTIFICATIONS & ACHIEVEMENTS</b></p>
 
 - First Position in Quiz Competition 2025, Zed-King Institute
 - Employability Skill Training Programme, Naandi Foundation
@@ -101,7 +109,7 @@ Government Certificate Course covering Web Development, Programming, IoT, and Co
 
 ---
 
-## Currently Learning
+<p><b>CURRENTLY LEARNING</b></p>
 
 <p>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=flat-square" alt="Artificial Intelligence">
@@ -113,7 +121,7 @@ Government Certificate Course covering Web Development, Programming, IoT, and Co
 
 ---
 
-## Connect With Me
+<p><b>CONNECT WITH ME</b></p>
 
 <p>
   <a href="https://github.com/sharmrashi-arch">
@@ -121,6 +129,9 @@ Government Certificate Course covering Web Development, Programming, IoT, and Co
   </a>
   <a href="https://rashi-portfolio-frontend.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="http://www.linkedin.com/in/rashi-sharma56522">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:sharmaaaarashi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
